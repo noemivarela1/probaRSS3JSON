@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "My prefered programming languages",
+    "home_page_url": "https://noemivarela1.github.io/probaRSS3JSON",
+    "feed_url": "https://noemivarela1.github.io/probaRSS3JSON/feed/feed.json",
+    "items": [
+        {
+            "id": "2",
+            "content_text": "This is Python",
+            "url": "https://noemivarela1.github.io/probaRSS3JSON/python.html"
+        },
+        {
+            "id": "1",
+            "content_html": "<p>Hello, Java!</p>",
+            "url": "https://noemivarela1.github.io/probaRSS3JSON/java.html"
+        }
+    ]
+}
